@@ -12,7 +12,7 @@
 
 ```json
 {
-	"CUUSERRET": "y6pcnr8bi5r7648jrphqruqmq6u1xl7l",	//CUUSERRET, 生成方式只和浏览器有关
+	"CUUSERRET": "y6pcnr8bi5r7648jrphqruqmq6u1xl7l",	#CUUSERRET, 生成方式只和浏览器有关
 	"sign": "2d6077c74c6498989d39e0715fae50e0",		//CUSUT, 账号重新登录后刷新
 	"id_token": "38d92a8d13cbc01f65f11ca1ccb0ab16",		//CUSIT, 前端每隔一定时间或请求list, confirm和order接口前调用refresh_token刷新, 每次需要重新获取
 	"userid": "15869828",	//CUSID, 只与账号有关
